@@ -24,7 +24,7 @@ This project presents an interactive Power BI dashboard built to analyze four ye
 - 🔝 Bar Chart: Top 5 sub-categories by profit or sales using TopN filter.
 - 🌍 Filled Map: State-level profit heatmap with conditional formatting.
 
-### 🔹 Page 2 / Page 5 – Drillthrough Details
+### 🔹 Category Page – Drillthrough Details
 - 🔍 Drillthrough-enabled by selecting a specific `State`, `Category`, or `Customer Segment`.
 - 📥 Filtered views show granular-level performance tied to the selected item.
 - 🔁 Back button included for user-friendly navigation.
