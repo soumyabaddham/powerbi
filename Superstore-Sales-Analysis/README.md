@@ -33,10 +33,7 @@ This project presents an interactive Power BI dashboard built to analyze four ye
 
 ## 💡 Key Visual Elements & DAX Measures
 
-| Metric | Formula |
-|--------|---------|
-| **Average Order Value** | `= SUM(Sales) / DISTINCTCOUNT(Order ID)` |
-| **Previous 6 Months Sales** | `= CALCULATE(SUM(Sales), DATESINPERIOD(Order Date, MAX(Order Date), -6, MONTH))` |
+- You can find all the DAX measures in the Measure Table.
 
 Other elements:
 - Dynamic date hierarchy
@@ -92,13 +89,13 @@ Other elements:
 
 ## 📄 License
 
-This is a personal project built for educational demonstration purposes.
+This is a personal project built for practice.
 
 ---
 
 ## 🙋‍♂️ Author
 
-**Soumya Reddy**  
+**Soumya Baddham**  
 Graduate Student | Data Analyst  
 [LinkedIn](https://www.linkedin.com/in/soumyab04/)
 [Email](soumyabaddham@gmail.com)
