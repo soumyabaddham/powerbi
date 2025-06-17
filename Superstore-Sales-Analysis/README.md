@@ -100,6 +100,6 @@ This is a personal project built for educational demonstration purposes.
 
 **Soumya Reddy**  
 Graduate Student | Data Analyst  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/soumyab04/))
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/soumyab04/)) *(add your link)* 
 [Email](soumyabaddham@gmail.com)
 
