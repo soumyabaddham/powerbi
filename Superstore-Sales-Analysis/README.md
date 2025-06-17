@@ -89,25 +89,17 @@ Other elements:
 
 ---
 
-## 🚧 Future Enhancements
-
-- 📅 Add forecast lines for sales using the Analytics pane
-- 🎨 Use bookmarks for guided storytelling
-- 🧠 Include dynamic titles using `SELECTEDVALUE()`
-- 📤 Export summary tables to Excel/PDF for sharing
-
----
 
 ## 📄 License
 
-This is a personal, academic, and portfolio project built for educational demonstration purposes.
+This is a personal project built for educational demonstration purposes.
 
 ---
 
 ## 🙋‍♂️ Author
 
 **Soumya Reddy**  
-Graduate Student | Machine Learning Assistant | Data Analyst  
-[LinkedIn](https://www.linkedin.com/) *(add your link)*  
-[Email](mailto:youremail@example.com)
+Graduate Student | Data Analyst  
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/soumyab04/))
+[Email](soumyabaddham@gmail.com)
 
